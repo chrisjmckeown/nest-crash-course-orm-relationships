@@ -1,6 +1,6 @@
-import { ContactInfo } from 'src/contact-info/entities/contact-info.entity';
-import { Meeting } from 'src/meeting/entities/meeting.entity';
-import { Task } from 'src/task/entities/task.entity';
+import { ContactInfo } from '../../contact-info/entities/contact-info.entity';
+import { Meeting } from '../../meeting/entities/meeting.entity';
+import { Task } from '../../task/entities/task.entity';
 import {
   Column,
   Entity,
